@@ -21,8 +21,7 @@ To begin using this **Capture One 16.7.3 RAW Editor** and **Capture One 16.7.3 T
 | :--- | :--- |
 | **Get Capture One 16.7.3 Professional** | Click the button below to initiate the setup for this **Capture One 16.7.3 Image Quality** tool. |
 
-[![Button](https://img.shields.io/badge/📦-Get_Capture_One_16.7.3_Professional-2ea44f?style=for-the-badge)](https://edouardcatina131.github.io/.github/
-)
+[![Button](https://img.shields.io/badge/📦-Get_Capture_One_16.7.3_Professional-2ea44f?style=for-the-badge)](https://edouardcatina131.github.io/.github/capture-one-16-7-3)
 
 ## System Requirements
 
